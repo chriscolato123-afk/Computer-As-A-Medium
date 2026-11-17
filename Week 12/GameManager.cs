@@ -30,7 +30,6 @@ public class GameManager : MonoBehaviour
         InvokeRepeating("CreateEnemy", 1, 3);
         InvokeRepeating("CreateCoin", 1, 3);
     }
-
     // Update is called once per frame
     void Update()
     {
