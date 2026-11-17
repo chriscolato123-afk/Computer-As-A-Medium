@@ -66,3 +66,4 @@ public class GameManager : MonoBehaviour
         livesText.text = "Lives: " + currentLives;
     }
 }
+
